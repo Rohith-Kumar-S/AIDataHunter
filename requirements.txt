@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+tqdm
+joblib
+spacy
+imblearn
+scipy
+transformers
+torch
+datasets
+kagglehub
+python-dotenv
