@@ -94,7 +94,7 @@ To run the project:
 
 1. Clone the repository
 ```bash
-git clone https://github.com/2025-F-CS6220/project-project-aidatahunter.git
+git clone https://github.com/Rohith-Kumar-S/AIDataHunter.git
 cd project-project-aidatahunter
 ```
 2. Install dependencies using the provided environment file or requirements  
