@@ -72,9 +72,9 @@ Additionally, hyperparameter tuning had been applied to all the models to achiev
 - Random Forest improved from ~85% to **91% accuracy** after systematic hyperparameter exploration.  
 
 ### **BERT-Based Deep Learning Model**  
-- Achieved **93.3% accuracy**  
-- AI-recall: **98%** (very strong at catching AI text)  
-- Human-recall: **89%**  
+- Achieved **93% accuracy**  
+- AI-recall: **93%** (very strong at catching AI text)  
+- Human-recall: **92%**  
 - F1-score: **0.93**  
 
 This shows that both classical and deep learning models can effectively detect writing patterns, with transformers providing the strongest generalization.
@@ -95,7 +95,7 @@ To run the project:
 1. Clone the repository
 ```bash
 git clone https://github.com/Rohith-Kumar-S/AIDataHunter.git
-cd project-project-aidatahunter
+cd AIDataHunter
 ```
 2. Install dependencies using the provided environment file or requirements  
 ```bash
